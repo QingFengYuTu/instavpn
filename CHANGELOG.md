@@ -1,0 +1,4 @@
+# Changelog
+
+- 2026-11-23: routine check: README examples verified against the current release
+
